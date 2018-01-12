@@ -7,7 +7,8 @@ devices that have a BMC; typically, but not limited to, things like servers,
 top of rack switches or RAID appliances. The OpenBMC stack uses technologies
 such as [Yocto](https://www.yoctoproject.org/),
 [OpenEmbedded](https://www.openembedded.org/wiki/Main_Page),
-[systemd](https://www.freedesktop.org/wiki/Software/systemd/), and
+[systemd]
+(https://www.freedesktop.org/wiki/Software/systemd/), and
 [D-Bus](https://www.freedesktop.org/wiki/Software/dbus/) to allow easy
 customization for your server platform.
 
